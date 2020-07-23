@@ -8,3 +8,6 @@ https://community.shopify.com/c/Shopify-APIs-SDKs/shopify-app-bridge-react-docum
 
 3. How to have 2 Github accounts on one machine     
 https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e
+
+4. How to write a JavaScript promise    
+https://www.freecodecamp.org/news/how-to-write-a-javascript-promise-4ed8d44292b8/
