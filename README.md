@@ -10,4 +10,9 @@ https://community.shopify.com/c/Shopify-APIs-SDKs/shopify-app-bridge-react-docum
 https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e
 
 4. How to write a JavaScript promise    
-https://www.freecodecamp.org/news/how-to-write-a-javascript-promise-4ed8d44292b8/
+https://www.freecodecamp.org/news/how-to-write-a-javascript-promise-4ed8d44292b8/  
+
+5. How to run multiple ngrok tunnels   
+https://www.codementor.io/@helgesverre/using-ngrok-to-expose-local-web-server-8i4o2ydnt
+
+The ngrok confid files can be found under `C:\Users\%USERNAME%\.ngrok2` in Windows
