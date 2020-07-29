@@ -16,3 +16,6 @@ https://www.freecodecamp.org/news/how-to-write-a-javascript-promise-4ed8d44292b8
 https://www.codementor.io/@helgesverre/using-ngrok-to-expose-local-web-server-8i4o2ydnt
 
 The ngrok confid files can be found under `C:\Users\%USERNAME%\.ngrok2` in Windows
+
+6. fatal: early EOF fatal: index-pack failed   
+https://stackoverflow.com/a/22317479/8810941
