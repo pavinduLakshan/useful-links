@@ -18,4 +18,7 @@ https://www.codementor.io/@helgesverre/using-ngrok-to-expose-local-web-server-8i
 The ngrok confid files can be found under `C:\Users\%USERNAME%\.ngrok2` in Windows
 
 6. fatal: early EOF fatal: index-pack failed   
-https://stackoverflow.com/a/22317479/8810941
+https://stackoverflow.com/a/22317479/8810941   
+
+7. Maintain multiple git stashes  
+https://stackoverflow.com/a/57802364/8810941
